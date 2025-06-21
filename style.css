@@ -1,0 +1,3 @@
+body { font-family: Arial; background: #121212; color: white; padding: 1em; }
+input, button { padding: 0.5em; margin: 0.2em; }
+#chat-box { height: 300px; overflow-y: scroll; border: 1px solid #444; margin-bottom: 1em; padding: 0.5em; background: #222; }
